@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Zona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Zona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\VerzijaOglasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\VerzijaOglasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Uloga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Uloga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Transakcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Transakcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\StatistikaProdaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\StatistikaProdaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Sediste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Sediste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\RezervacijaResursa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\RezervacijaResursa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Rezervacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Rezervacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Resurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Resurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\RadniTok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\RadniTok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Projekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Projekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\PraviloCene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\PraviloCene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Oglas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Oglas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\KorisnikUloga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\KorisnikUloga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Karta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Karta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Istorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Istorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Instanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Instanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Faza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Faza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Dogadjaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Models\\Dogadjaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmskiFestivali\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zona.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Zona.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Zona.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Zona.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Zona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:17:06.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VerzijaOglasa.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\VerzijaOglasa.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\VerzijaOglasa.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\VerzijaOglasa.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\VerzijaOglasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:17:01.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Uloga.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Uloga.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Uloga.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Uloga.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Uloga.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:57.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transakcija.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Transakcija.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Transakcija.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Transakcija.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Transakcija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:52.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatistikaProdaje.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\StatistikaProdaje.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\StatistikaProdaje.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\StatistikaProdaje.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\StatistikaProdaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:47.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sediste.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Sediste.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Sediste.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Sediste.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Sediste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:42.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Sala.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Sala.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Sala.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Sala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:37.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RezervacijaResursa.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\RezervacijaResursa.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\RezervacijaResursa.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\RezervacijaResursa.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\RezervacijaResursa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:31.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rezervacija.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Rezervacija.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Rezervacija.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Rezervacija.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Rezervacija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:25.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resurs.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Resurs.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Resurs.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Resurs.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Resurs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:20.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RadniTok.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\RadniTok.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\RadniTok.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\RadniTok.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\RadniTok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:16.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Projekcija.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Projekcija.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Projekcija.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Projekcija.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Projekcija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:11.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Problem.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Problem.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Problem.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Problem.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Problem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:07.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PraviloCene.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\PraviloCene.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\PraviloCene.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\PraviloCene.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\PraviloCene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:16:02.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Oglas.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Oglas.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Oglas.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Oglas.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Oglas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:15:57.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KorisnikUloga.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\KorisnikUloga.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\KorisnikUloga.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\KorisnikUloga.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\KorisnikUloga.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:15:46.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Korisnik.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Korisnik.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Korisnik.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Korisnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:15:41.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Karta.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Karta.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Karta.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Karta.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Karta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:15:37.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Istorija.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Istorija.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Istorija.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Istorija.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Istorija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:15:33.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Instanca.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Instanca.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Instanca.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Instanca.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Instanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:15:28.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Film.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Film.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Film.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:15:21.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Faza.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Faza.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Faza.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Faza.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Faza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:14:52.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dogadjaj.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Dogadjaj.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Models\\Dogadjaj.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Models\\Dogadjaj.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Models\\Dogadjaj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:14:40.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FilmskiFestivali\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\FAKULTET\\Osmi semestar\\FilmskiFestivali\\FilmskiFestivali\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FilmskiFestivali\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:12:45.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
